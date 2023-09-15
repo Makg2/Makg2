@@ -38,4 +38,5 @@ About Me:
   ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Makg2&layout=compact&theme=blue-green)
  <br>
   [![Github](https://img.shields.io/github/followers/Makg2?label=Follow&style=social)](https://github.com/Makg2)
+  ![](https://visitor-badge.laobi.icu/badge?page_id=Makg2.Makg2)
  </p>
